@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.Nav{
+  display: flex;
+  list-style: none;
+  flex-direction: row-reverse;
+  align-items: center;
+  margin: auto;
+}
+.Nav li{
+    padding-right: 20px;
+   padding-top: 17px;
+   font-size: 20px;
+
+}
+.navlinks{
+  background-color: gray;
+  height: 50px;
+}
+.Nav{
+  margin-right: 50px;
+}
+.na
